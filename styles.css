@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+.title {
+    font-size: 40px;
+}
+
+.recipes {
+    background-color: bisque;
+    padding: 4px;
+}
+
+.content {
+    background-color: bisque;
+    padding: 4px;
+}
